@@ -17,7 +17,7 @@
 > **Estefano** — ML Engineer & Cybersecurity Enthusiast
 
 ```bash
-$ root@kali:~$ cat about.txt
+$ root@kali:~ $ cat about.txt
 [*] Building ML models and breaking (ethical) systems 🔭
 [*] Passionate about cybersecurity, OSINT & network analysis 🔐
 [*] Always scanning for vulnerabilities and patterns 📡

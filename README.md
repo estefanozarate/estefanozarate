@@ -1,47 +1,68 @@
-# Hi, I'm Estefano 👋
 
-🔐 ML Engineer & Cybersecurity Enthusiast
 
----
 
-## 🧠 About me
+```
+███████╗███████╗████████╗███████╗███████╗ █████╗ ███╗   ██╗ ██████╗ 
+██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔════╝██╔══██╗████╗  ██║██╔═══██╗
+█████╗  ███████╗   ██║   █████╗  █████╗  ███████║██╔██╗ ██║██║   ██║
+██╔══╝  ╚════██║   ██║   ██╔══╝  ██╔══╝  ██╔══██║██║╚██╗██║██║   ██║
+███████╗███████║   ██║   ███████╗██║     ██║  ██║██║ ╚████║╚██████╔╝
+╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+```
 
-- 🔭 Building ML models and breaking (ethical) systems
-- 🔐 Passionate about cybersecurity, OSINT & network analysis
-- 📡 Always scanning for vulnerabilities and patterns
-- 🛠️ Tools of the trade: Python, Nmap, SQL, Wireshark
-- 📫 Reach out → **estefanozaratem@protonmail.com**
 
----
 
-## ⚔️ Languages and tools
+# `root@kali:~$ whoami` 👾
 
-`Python` `scikit-learn` `TensorFlow` `Keras` `Pandas` `NumPy`
-`Nmap` `Wireshark` `Kali Linux` `Metasploit`
-`SQL` `PostgreSQL` `MySQL`
-`TCP/IP` `Linux` `Bash`
+> **Estefano** — ML Engineer & Cybersecurity Enthusiast
 
----
-
-## 🎯 Areas of interest
-
-| Area | |
-|------|---|
-| 🧮 Matemáticas | Álgebra lineal, estadística, teoría de números |
-| 🗄️ SQL & Bases de datos | Modelado relacional, optimización de queries |
-| 🔑 Criptografía | Cifrado simétrico/asimétrico, hashing, PKI |
-| 🕵️ OSINT | Recolección de inteligencia en fuentes abiertas |
-| 🌐 Redes | Protocolos, escaneo, análisis de tráfico |
+```bash
+$ cat about.txt
+[*] Building ML models and breaking (ethical) systems 🔭
+[*] Passionate about cybersecurity, OSINT & network analysis 🔐
+[*] Always scanning for vulnerabilities and patterns 📡
+[*] Tools: Python · Nmap · SQL · Wireshark 🛠️
+[*] Contact: estefanozaratem@protonmail.com 📫
+```
 
 ---
 
-## 📊 GitHub stats
+## ⚔️ `stack --list`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&hide=html,css&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=0,000000,130F40&text_color=ffffff&border_color=0c1a25)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&title_color=ff652f&icon_color=FFE400&bg_color=0,000000,130F40&text_color=ffffff&border_color=0c1a25)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 🔗 Connect
-- 🐦 HackerRank: [hackerrank.com/TUUSUARIO](https://www.hackerrank.com/TUUSUARIO)
+## 🎯 `nmap --interests`
+
+| | Área | Topics |
+|---|---|---|
+| 🧮 | **Matemáticas** | Álgebra lineal · Estadística · Teoría de números · Solución de Ecuaciones No Lineales · Sistemas de Ecuaciones Lineales · Interpolación · Ecuaciones Diferenciales Ordinarias |
+| 🗄️ | **SQL & Bases de datos** | Modelado relacional · Optimización de queries |
+| 🔑 | **Criptografía** | Cifrado simétrico/asimétrico · Hashing · PKI |
+| 🕵️ | **OSINT** | Recolección de inteligencia en fuentes abiertas |
+| 🌐 | **Redes** | Protocolos · Escaneo · Análisis de tráfico |
+
+---
+
+## 🔗 `connect --social`
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/TUUSUARIO)
+
+---
+
+
+⚡ "The quieter you become, the more you are able to hear." — Kali Linux motto

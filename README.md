@@ -63,5 +63,5 @@ $ root@kali:~ $ cat about.txt
 
 ---
 
-
-⚡ "The quieter you become, the more you are able to hear." — Kali Linux motto
+⚡ "The quieter you become, the more you are able to hear." 
+                                        — Kali Linux motto

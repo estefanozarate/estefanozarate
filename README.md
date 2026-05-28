@@ -51,7 +51,7 @@ $ root@kali:~ $ cat about.txt
 |---|---|---|
 | 🧮 | **Matemáticas** | Álgebra lineal · Estadística · Teoría de números · Solución de Ecuaciones No Lineales · Sistemas de Ecuaciones Lineales · Interpolación · Ecuaciones Diferenciales Ordinarias |
 | 🗄️ | **SQL & Bases de datos** | Modelado relacional · Optimización de queries |
-| 🔑 | **Criptografía** | Cifrado simétrico/asimétrico · Hashing · PKI AES-256 · ChaCha20-Poly1305 · RSA-4096 · ECC (Curve 25519) · ML-KEM(Kyber) · One-Time Pad (Shannon 49') |
+| 🔑 | **Criptografía** | Cifrado simétrico/asimétrico · Hashing · PKI · AES-256 · ChaCha20-Poly1305 · RSA-4096 · ECC (Curve 25519) · ML-KEM(Kyber) · One-Time Pad (Shannon 49') |
 | 🕵️ | **OSINT** | Recolección de inteligencia en fuentes abiertas |
 | 🌐 | **Redes** | Protocolos · Escaneo · Análisis de tráfico |
 

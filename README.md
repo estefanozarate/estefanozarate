@@ -14,7 +14,7 @@
 
 # `root@kali:~$ whoami` 👾
 
-> **Estefano** — ML Engineer & Cybersecurity Enthusiast
+> **Estefano** — ML & Cybersecurity Engineer
 
 ```bash
 $ root@kali:~ $ cat about.txt

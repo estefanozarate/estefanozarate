@@ -45,15 +45,13 @@ $ root@kali:~ $ cat about.txt
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-AES-256, ChaCha20-Poly1305, RSA-4096, ECC (Curve 25519), ML-KEM(Kyber), One-Time Pad (Shannon 1949 | XOR)
 ## 🎯 `nmap --interests`
 
 | | Área | Topics |
 |---|---|---|
 | 🧮 | **Matemáticas** | Álgebra lineal · Estadística · Teoría de números · Solución de Ecuaciones No Lineales · Sistemas de Ecuaciones Lineales · Interpolación · Ecuaciones Diferenciales Ordinarias |
 | 🗄️ | **SQL & Bases de datos** | Modelado relacional · Optimización de queries |
-| 🔑 | **Criptografía** | Cifrado simétrico/asimétrico · Hashing · PKI AES-256 · ChaCha20-Poly1305 · RSA-4096 · ECC (Curve 25519) · ML-KEM(Kyber) · One-Time Pad (Shannon 1949 | XOR)
- |
+| 🔑 | **Criptografía** | Cifrado simétrico/asimétrico · Hashing · PKI AES-256 · ChaCha20-Poly1305 · RSA-4096 · ECC (Curve 25519) · ML-KEM(Kyber) · One-Time Pad (Shannon 1949 | XOR) |
 | 🕵️ | **OSINT** | Recolección de inteligencia en fuentes abiertas |
 | 🌐 | **Redes** | Protocolos · Escaneo · Análisis de tráfico |
 
